@@ -4,5 +4,5 @@ let arr = [
     ['gilas','qirmizi'],
     ['heyva','sarı'],
     ]
-let furit = arr.filter(element => element[1] == "qirmizi")
+let furit = arr.filter(element => element[1] == 'qirmizi' )
 console.log(furit)
